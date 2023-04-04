@@ -1,0 +1,6 @@
+this is a test file for git
+and githud file
+
+
+
+this file is now added in the ways
